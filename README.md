@@ -10,6 +10,7 @@ Express
 
 ## Pending
 - [ ] Finish CRUD operations: CREATE, PATCH, DELETE
+- [ ] Set Redis TTL
 - [ ] Implement server registers: fastify-cors, fastify-helmet, @fastify/formbody
 - [ ] Body schema validation using schema property (JSONSCHEMA)
 - [ ] Testing
