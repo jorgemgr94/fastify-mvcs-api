@@ -1,0 +1,26 @@
+/node_modules
+
+# Compiled output
+/dist
+/build
+
+# Environment variables
+.env
+
+# Editor/IDE files
+.idea
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+
+# TypeScript files
+*.tsbuildinfo
+
+# Tests
+/coverage
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
